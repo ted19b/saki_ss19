@@ -1,0 +1,60 @@
+;Auftragskonto;Buchungstag;Valutadatum;Buchungstext;Verwendungszweck;Beguenstigter/Zahlungspflichtiger;Kontonummer;BLZ;Betrag;Waehrung;label
+89;89990210.0;09.03.2016;09.03.2016;Lastschrift (Einzugsermächtigung);04032016 350193 Horst Dietrich 8324 2 Reit Im Winkl Ref;Hobex Ag;DE91740201000008119083;RZOODE77;-67,8;EUR;finance
+90;89990210.0;07.03.2016;07.03.2016;Lastschrift (Einzugsermächtigung);Intersport Rent//Reit Im Winkl/De 2 016-03-05T09:57:27Folgenr.001 Verf Alld.2020 -12;Intersport Rent;DE24710520500000355073;BYLADEM1TST;-18;EUR;leisure
+91;89990210.0;07.03.2016;07.03.2016;Euro-Überweisung;Interne Umbuchung;Anna Fein;DE51760300800843688500;CSDBDE71XXX;-1000;EUR;private
+92;89990210.0;04.03.2016;04.03.2016;Lastschrift (Einzugsermächtigung);Aramark Gmbh//Nuernberg/De 2016-03- 03T12:33:04 Folgenr.001 Verfalld.20 20-12;Aramark Gmbh I.Hs. Teambank;DE70500202000015003825;BHFBDEFF500;-20;EUR;leisure
+93;89990210.0;04.03.2016;04.03.2016;Lastschrift (Einzugsermächtigung);Abonnement Kd-Nr. 5104489.;Vag;DE89760501010001011500;SSKNDE77;-51,2;EUR;leisure
+94;89990210.0;03.03.2016;03.03.2016;Lastschrift (Einzugsermächtigung);Rse Gastro Gmbh//Roethenbach/De 201 6-03-02T22:02:20 Folgenr.001 Verfal Ld.2020-12;Rse Gastro Gmbh;DE71500400000600178805;COBADEFF;-37;EUR;living
+95;89990210.0;03.03.2016;03.03.2016;Lastschrift (Einzugsermächtigung);Elv56006915 01.03 19.54 Me1Rewe Sa Gt Danke. 46400517;Rewe Nuernberg Aeu;DE56500101111932685105;ESSEDE5F;-9,75;EUR;standardOfLiving
+96;89990210.0;02.03.2016;02.03.2016;Lastschrift (Einzugsermächtigung);Visa6218502106060876 20,00Eur0,0000000000 29.02. 20,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-20;EUR;leisure
+97;89990210.0;01.03.2016;01.03.2016;Lastschrift (Einzugsermächtigung);Visa62185021800-279-6620 52,42Eur0,0000000000 27.02. 0,00 10355999;Amazon De Marketplace;922904916;76030080;-52,42;EUR;leisure
+98;89990210.0;01.03.2016;01.03.2016;Lastschrift (Einzugsermächtigung);Visa62185021Amazon.De 7,54Eur0,0000000000 26.02. 0,00 10355969;Amazon Eu;922904916;76030080;-7,54;EUR;leisure
+99;89990210.0;01.03.2016;01.03.2016;Dauerauftrag;Haushalt;Anna Fein, Lucas Fein;DE60760300800230188170;CSDBDE71XXX;-100;EUR;standardOfLiving
+100;89990210.0;01.03.2016;01.03.2016;Dauerauftrag;Urlaub;Anna Fein;DE51760300800843688500;CSDBDE71XXX;-110;EUR;private
+101;89990210.0;01.03.2016;01.03.2016;Lastschrift (Einzugsermächtigung);Abschlag Strom 03/16 Vk: 122721405 Gruenstrom Classic;Stromio Gmbh;DE75550104000414135389;AARBDE5WDOM;-32;EUR;living
+102;89990210.0;29.02.2016;29.02.2016;Lastschrift (Einzugsermächtigung);Omv Nuernberg 7540//Nuernberg/De 20 16-02-26T15:17:34 Folgenr.001 Verfa Lld.2020-12;Omv Deutschland Gmbh;DE46743200730005403626;HYVEDEMM433;-26,02;EUR;leisure
+103;89990210.0;29.02.2016;29.02.2016;Euroscheck / Gaa-Belastung Ausland;Mango Nuremberg Karolinen//Nuernber G/De/0 2016-02-27T10:39:17 Folgenr. 001 Verfalld.2099-12;Issuer;DE66760300800210438280;CSDBDE71;-15,99;EUR;leisure
+104;89990210.0;29.02.2016;29.02.2016;Lastschrift (Einzugsermächtigung);Nuernberg Ticket Gmbh Im U1//Nuernb Erg/De 2016-02-27T11:14:18 Folgenr. 001 Verfalld.2020-12;Lastschrift Aus Kartenzahlung;DE29370100500555615500;PBNKDEFF;-165,7;EUR;leisure
+105;89990210.0;29.02.2016;29.02.2016;Lastschrift (Einzugsermächtigung);Dm Fil.2103 H:65214//Nuernberg/De 2 016-02-27T11:43:26Folgenr.001 Verf Alld.2020 -12;Dm Drogeriemarkt Sagt Danke;DE88600501017402099997;SOLADEST600;-5,45;EUR;standardOfLiving
+106;89990210.0;29.02.2016;29.02.2016;Dauerauftrag;Miete;Lucas Fein;DE34760606180001954970;GENODEF1N02;-412,16;EUR;private
+107;89990210.0;29.02.2016;29.02.2016;Lastschrift (Einzugsermächtigung);Elv56006915 25.02 19.51 Me1Rewe Sa Gt Danke. 46400517;Rewe Nuernberg Aeu;DE56500101111932685105;ESSEDE5F;-10,42;EUR;standardOfLiving
+108;89990210.0;26.02.2016;26.02.2016;Gehalt/Rente;Gehalt Adorsys GmbH & Co. KG;Adorsys GmbH & Co. KG;DE74760320009460000022;TEAMDE71;2986,24;EUR;income
+109;89990210.0;25.02.2016;25.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021Rathaus 50,00Eur0,0000000000 23.02. 50,00 10316011;Sparkasse Nuernberg;922904916;76030080;-50;EUR;leisure
+110;89990210.0;25.02.2016;25.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021800-279-6620 26,30Eur0,0000000000 23.02. 0,00 10355999;Amazon De Marketplace;922904916;76030080;-26,3;EUR;leisure
+111;89990210.0;25.02.2016;25.02.2016;Lastschrift (Einzugsermächtigung);Elv56006915 23.02 11.59 Me1Rewe Sa Gt Danke. 46400517;Rewe Nuernberg Aeu;DE56500101111932685105;ESSEDE5F;-37,19;EUR;standardOfLiving
+112;89990210.0;24.02.2016;24.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021Amazon.De 7,99Eur0,0000000000 22.02. 0,00 10355969;Amazon Eu;922904916;76030080;-7,99;EUR;leisure
+113;89990210.0;24.02.2016;24.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021Amazon.De 6,73Eur0,0000000000 22.02. 0,00 10355969;Amazon Eu;922904916;76030080;-6,73;EUR;leisure
+114;89990210.0;23.02.2016;23.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021800-279-6620 10,00Eur0,0000000000 21.02. 0,00 10355999;Amazon De Marketplace;922904916;76030080;-10;EUR;leisure
+115;89990210.0;22.02.2016;22.02.2016;Lastschrift (Einzugsermächtigung);Gries Deco Company//Nuernberg/De 20 16-02-20T15:32:51 Folgenr.001 Verfa Lld.2020-12;Gries Deco Company;DE13700202700654198462;HYVEDEMM;-12,97;EUR;leisure
+116;89990210.0;22.02.2016;22.02.2016;Lastschrift (Einzugsermächtigung);Ultra-Comix Gmbh//Nuernberg/De 2016 -02-20T17:35:28 Folgenr.001 Verfall D.2020-12;Ultra-Comix Gmbh;DE52664926000014134905;GENODE61APP;-19,95;EUR;leisure
+117;89990210.0;22.02.2016;22.02.2016;Lastschrift (Einzugsermächtigung);Kd-Nr. K358853507/ Rg-Nr. 150251073 317;1U1 Telecom Gmbh;DE97500400000589011600;COBADEFF;-24,99;EUR;living
+118;89990210.0;19.02.2016;19.02.2016;Lastschrift (Einzugsermächtigung);Skyline Gaststaette//Nuernberg/De 2 016-02-18T21:33:58Folgenr.001 Verf Alld.2020 -12;Skyline Gastst.+Veranst.;DE90793301110000410638;FLESDEMM;-32;EUR;living
+119;89990210.0;16.02.2016;16.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021Schnieglin 140,00Eur0,0000000000 13.02. 140,00 10316011;Sparkasse Nuernberg;922904916;76030080;-140;EUR;leisure
+120;89990210.0;16.02.2016;16.02.2016;Lastschrift (Einzugsermächtigung);Visa62185021Amazon.De/Bil 35,99Eur0,0000000000 14.02. 0,00 10355735;Amazon Digital Video;922904916;76030080;-35,99;EUR;leisure
+121;89990210.0;16.02.2016;16.02.2016;Lastschrift (Einzugsermächtigung);Visa6218502106060876 10,00Eur0,0000000000 14.02. 10,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-10;EUR;leisure
+122;89990210.0;15.02.2016;15.02.2016;Lastschrift (Einzugsermächtigung);Fuerthermare//Fuerth/De 2016-02-13T 14:35:00 Folgenr.001 Verfalld.2020- 12;Fuerthermare;DE86762500000009899576;BYLADEM1SFU;-25;EUR;leisure
+123;89990210.0;15.02.2016;15.02.2016;Lastschrift (Einzugsermächtigung);Abschlag Gas 02/16 Vk: 220200215414;E Wie Einfach Gmbh;DE30370700600177252400;DEUTDEDK;-46;EUR;living
+124;89990210.0;15.02.2016;15.02.2016;Lastschrift (Einzugsermächtigung);Rundfunk 01.2016 - 03.2016 Beitrags Nr. 574704817 Aenderungen Ganz Bequ Em: Www.Rundfunkbeitrag.De;Ard Zdf Dradio Beitragsservice;DE28700500000002024100;BYLADEMM;-52,5;EUR;living
+125;89990210.0;11.02.2016;12.02.2016;Euro-Überweisung;1,01E+13;Zalando Se;DE86210700200123010101;DEUTDEHH210;-113,4;EUR;leisure
+126;89990210.0;10.02.2016;10.02.2016;Lastschrift (Einzugsermächtigung);Visa6218502106060876 40,00Eur0,0000000000 08.02. 40,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-40;EUR;leisure
+127;89990210.0;09.02.2016;09.02.2016;Euro-Überweisung;Strom Re: 330000099057 Vk: 12272140 5 Gruenstrom Classic;Stromio Gmbh;DE75550104000414135389;AARBDE5WDOM;161,7;EUR;living
+128;89990210.0;08.02.2016;08.02.2016;Lastschrift (Einzugsermächtigung);Cafe Bistro Seon//Nuernberg/De 2016 -02-05T23:01:11 Folgenr.001 Verfall D.2020-12;Cafe Seon Dankt;DE31760400610535961700;COBADEFF;-34;EUR;living
+129;89990210.0;08.02.2016;08.02.2016;Lastschrift (Einzugsermächtigung);Visa6218502106060876 40,00Eur0,0000000000 04.02. 40,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-40;EUR;leisure
+130;89990210.0;08.02.2016;08.02.2016;Euro-Überweisung;Lombagine;Sarah M¸ller;DE89500105175404143976;INGDDEFFXXX;-103,8;EUR;private
+131;89990210.0;04.02.2016;04.02.2016;Lastschrift (Einzugsermächtigung);Apotheke Sebalder H//Nuernberg/De 2 016-02-03T16:48:07Folgenr.001 Verf Alld.2020 -12;Apotheke Sebalder Hoefe;DE69120300000011090065;BYLADEM1001;-7,17;EUR;standardOfLiving
+132;89990210.0;04.02.2016;04.02.2016;Lastschrift (Einzugsermächtigung);Abonnement Kd-Nr. 5104489.;Vag;DE89760501010001011500;SSKNDE77;-51,2;EUR;leisure
+133;89990210.0;04.02.2016;04.02.2016;Lastschrift (Einzugsermächtigung);161080109883418 34439927 / Ts:65354 05 Travelsecure -Auslandsrei Sekr Ankenvers Icherung - 31.01.16-31.01. 17 33,00;Wuerzburger Versicherungs-Ag;DE03790700160037800000;DEUTDEMM790;-33;EUR;finance
+134;89990210.0;03.02.2016;03.02.2016;Lastschrift (Einzugsermächtigung);303-7483141-2001136 Amazon .Mktplce Eu-De 0164378887929309;Amazon Payments Europe S.C.A.;DE87300308801908262006;TUBDDEDD;-13,7;EUR;leisure
+135;89990210.0;03.02.2016;03.02.2016;Lastschrift (Einzugsermächtigung);303-0580631-8794708 Amazon .Mktplce Eu-De 2411354884929964;Amazon Payments Europe S.C.A.;DE87300308801908262006;TUBDDEDD;-20,85;EUR;leisure
+136;89990210.0;02.02.2016;02.02.2016;Lastschrift (Einzugsermächtigung);Aramark Gmbh//Nuernberg/De 2016-02- 01T11:55:14 Folgenr.001 Verfalld.20 20-12;Aramark Gmbh I.Hs. Teambank;DE70500202000015003825;BHFBDEFF500;-20;EUR;leisure
+137;89990210.0;02.02.2016;02.02.2016;Lastschrift (Einzugsermächtigung);Esso Deutschland Gmbh//Nuernberg/De 2016-02-01T06:57:22 Folgenr.001 Ve Rfalld.2020-12;Esso Deutschland Gmbh;DE25200800000930401000;DRESDEFF200;-40,6;EUR;leisure
+138;89990210.0;02.02.2016;02.02.2016;Euro-Überweisung;10103084736793Zalando;Zalando Se;DE86210700200123010101;DEUTDEHH210;5;EUR;leisure
+139;89990210.0;02.02.2016;02.02.2016;Lastschrift (Einzugsermächtigung);303-0084632-5339566 Amazon .Mktplce Eu-De 2410573888643087;Amazon Payments Europe S.C.A.;DE87300308801908262006;TUBDDEDD;-17,93;EUR;leisure
+140;89990210.0;02.02.2016;02.02.2016;Lastschrift (Einzugsermächtigung);Elv56006917 30.01 15.37 Me1Rewe Sa Gt Danke. 46400517;Rewe Nuernberg Aeu;DE56500101111932685105;ESSEDE5F;-13,87;EUR;standardOfLiving
+141;89990210.0;02.02.2016;02.02.2016;Lastschrift (Einzugsermächtigung);303-4488385-6169917 Amazon .Mktplce Eu-De 1637782719640441;Amazon Payments Europe S.C.A.;DE87300308801908262006;TUBDDEDD;-6,96;EUR;leisure
+142;89990210.0;01.02.2016;01.02.2016;Lastschrift (Einzugsermächtigung);Vero Moda Nuernberg//Nuernberg/De 2 016-01-30T14:25:54Folgenr.001 Verf Alld.2020 -12;69 Vero Moda Nuernberg City;DE38215400600211037700;COBADEFF;-34,95;EUR;living
+143;89990210.0;01.02.2016;01.02.2016;Dauerauftrag;Haushalt;Anna Fein, Lucas Fein;DE60760300800230188170;CSDBDE71XXX;-100;EUR;standardOfLiving
+144;89990210.0;01.02.2016;01.02.2016;Dauerauftrag;Urlaub;Anna Fein;DE51760300800843688500;CSDBDE71XXX;-110;EUR;private
+145;89990210.0;01.02.2016;01.02.2016;Lastschrift (Einzugsermächtigung);Elv56006916 28.01 19.12 Me1Rewe Sa Gt Danke. 46400517;Rewe Nuernberg Aeu;DE56500101111932685105;ESSEDE5F;-22,64;EUR;standardOfLiving
+146;89990210.0;29.01.2016;29.01.2016;Dauerauftrag;Miete;Lucas Fein;DE34760606180001954970;GENODEF1N02;-412,16;EUR;private
+147;89990210.0;28.01.2016;28.01.2016;Gehalt/Rente;Gehalt Adorsys GmbH & Co. KG;Adorsys GmbH & Co. KG;DE74760320009460000022;TEAMDE71;1792,73;EUR;income
