@@ -1,15 +1,4 @@
 ;Auftragskonto;Buchungstag;Valutadatum;Buchungstext;Verwendungszweck;Beguenstigter/Zahlungspflichtiger;Kontonummer;BLZ;Betrag;Waehrung;label
-148;89990210.0;27.01.2016;27.01.2016;Lastschrift (Einzugsermächtigung);Elv56006915 25.01 16.54 Me1Rewe Sa Gt Danke. 46400517;Rewe Nuernberg Aeu;DE56500101111932685105;ESSEDE5F;-17,94;EUR;standardOfLiving
-149;89990210.0;26.01.2016;26.01.2016;Lastschrift (Einzugsermächtigung);Visa62185021Nbg-Koestr 30,00Eur0,0000000000 21.01. 30,00 10316011;Vr Bank Nuernberg Eg;922904916;76030080;-30;EUR;leisure
-150;89990210.0;25.01.2016;25.01.2016;Lastschrift (Einzugsermächtigung);N-Style//Nurnberg/De 2016-01-23T11: 32:13 Folgenr.001 Verfalld.2020-12;N-Style;DE94721500000053303830;BYLADEM1ING;-89,95;EUR;leisure
-151;89990210.0;25.01.2016;25.01.2016;Lastschrift (Einzugsermächtigung);Humanic//Nuernber/De 2016-01-23T13: 23:17 Folgenr.001 Verfalld.2020-12;Humanic;DE35760100850024668858;PBNKDEFF;-39,95;EUR;leisure
-152;89990210.0;25.01.2016;25.01.2016;Euro-Überweisung;1,01E+13;Zalando Se;DE86210700200123010101;DEUTDEHH210;-24,95;EUR;leisure
-153;89990210.0;25.01.2016;25.01.2016;Euro-Überweisung;Euro-Überweisung;Anna Fein;DE51760300800843688500;CSDBDE71XXX;50;EUR;private
-154;89990210.0;22.01.2016;22.01.2016;Lastschrift (Einzugsermächtigung);Visa6218502106060876 20,00Eur0,0000000000 19.01. 20,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-20;EUR;leisure
-155;89990210.0;20.01.2016;20.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013800-279-6620 19,95Eur0,0000000000 18.01. 0,00 10355999;Amazon De Marketplace;922904916;76030080;-19,95;EUR;leisure
-156;89990210.0;20.01.2016;20.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013800-279-6620 12,80Eur0,0000000000 18.01. 0,00 10355999;Amazon De Marketplace;922904916;76030080;-12,8;EUR;leisure
-157;89990210.0;20.01.2016;20.01.2016;Lastschrift (Einzugsermächtigung);Kd-Nr. K358853507/ Rg-Nr. 150244534 116;1U1 Telecom Gmbh;DE97500400000589011600;COBADEFF;-24,99;EUR;living
-158;89990210.0;19.01.2016;19.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013Nuernberg 70,00Eur0,0000000000 16.01. 0,00 10355311;Breuninger Gmbh & Co.;922904916;76030080;-70;EUR;leisure
 159;89990210.0;19.01.2016;19.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013Nuernberg 50,00Eur0,0000000000 16.01. 50,00 10316011;*Deutsche Bank Ag;922904916;76030080;-50;EUR;leisure
 160;89990210.0;19.01.2016;19.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013Amazon.De 9,99Eur0,0000000000 15.01. 0,00 10355969;Amazon Eu;922904916;76030080;-9,99;EUR;leisure
 161;89990210.0;18.01.2016;18.01.2016;Lastschrift (Einzugsermächtigung);Visa6218501306060876 40,00Eur0,0000000000 14.01. 40,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-40;EUR;leisure
