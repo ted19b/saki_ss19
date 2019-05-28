@@ -1,0 +1,51 @@
+;Auftragskonto;Buchungstag;Valutadatum;Buchungstext;Verwendungszweck;Beguenstigter/Zahlungspflichtiger;Kontonummer;BLZ;Betrag;Waehrung;label
+159;89990210.0;19.01.2016;19.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013Nuernberg 50,00Eur0,0000000000 16.01. 50,00 10316011;*Deutsche Bank Ag;922904916;76030080;-50;EUR;leisure
+160;89990210.0;19.01.2016;19.01.2016;Lastschrift (Einzugsermächtigung);Visa62185013Amazon.De 9,99Eur0,0000000000 15.01. 0,00 10355969;Amazon Eu;922904916;76030080;-9,99;EUR;leisure
+161;89990210.0;18.01.2016;18.01.2016;Lastschrift (Einzugsermächtigung);Visa6218501306060876 40,00Eur0,0000000000 14.01. 40,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-40;EUR;leisure
+162;89990210.0;15.01.2016;15.01.2016;Lastschrift (Einzugsermächtigung);Visa6218501306060876 30,00Eur0,0000000000 13.01. 30,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-30;EUR;leisure
+163;89990210.0;13.01.2016;13.01.2016;Lastschrift (Einzugsermächtigung);Visa6218501306060876 20,00Eur0,0000000000 11.01. 20,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-20;EUR;leisure
+164;89990210.0;13.01.2016;13.01.2016;Euro-Überweisung;Gas Re: 320000042615 Vk: 2202002154 14;E Wie Einfach Gmbh;DE30370700600177252400;DEUTDEDK;275,98;EUR;living
+165;89990210.0;11.01.2016;11.01.2016;Lastschrift (Einzugsermächtigung);Visa6218501306060876 20,00Eur0,0000000000 07.01. 20,00 10316011;Bankhaus August Lenz Atm;922904916;76030080;-20;EUR;leisure
+166;89990210.0;08.01.2016;08.01.2016;Lastschrift (Einzugsermächtigung);Bears + Friends Gmb//Pulsnitz/De 20 16-01-02T14:18:06 Folgenr.000 Verfa Lld.2016-12;Bears + Friends Gmb;DE40750500000030909980;BYLADEM1RBG;-5;EUR;leisure
+167;;08.07.2016;08.07.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-09T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-19.99;EUR;standardOfLiving
+168;;05.07.2016;05.07.2016;Drogerie;Dm Fil.1137 H:65128//Nuernberg/De 2 016-04-19T17:03:43Folgenr.001 Verf Alld.2020 -12;Dm Drogeriemarkt Sagt Danke;7755566780;25190001;-28.85;EUR;standardOfLiving
+169;;01.07.2016;01.07.2016;Bargeld;16.02/16.34Uhr Nuernberg All Eur 70,00 Geb.Eur 0,00 Einzahlung/Auszahlung Ga Nr55508568 Blz76010085 9;Bargeld;9999900780;25190001;-50.00;EUR;private
+170;;29.06.2016;29.06.2016;Lohn / Gehalt;Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift;Adorsys GmbH & Co. KG;7807800780;25190001;2000.00;EUR;income
+171;;28.06.2016;28.06.2016;Miete;Byladem1Sbt De12773501123456789889 Miete Beuthener Str. 25 End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Georg Tasche;DE31251900019123456780;VOHADE2HXXX;-670.00;EUR;living
+172;;15.06.2016;15.06.2016;Mieteinnahmen;Mietzuschuss End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603080001510000000000000000006 Gutschrift;Isabel Anna;DE31251900019736000780;VOHADE2HXXX;200.00;EUR;finance
+173;;10.06.2016;10.06.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-10T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-25.99;EUR;standardOfLiving
+174;;08.06.2016;08.06.2016;Drogerie;Dm Fil.1137 H:65128//Nuernberg/De 2 016-02-16T17:03:43Folgenr.001 Verf Alld.2020 -12;Dm Drogeriemarkt Sagt Danke;7755566780;25190001;-19.99;EUR;standardOfLiving
+175;;03.06.2016;03.06.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-04T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-73.21;EUR;standardOfLiving
+176;;02.06.2016;02.06.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-06-02T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-10.00;EUR;standardOfLiving
+177;;02.06.2016;02.06.2016;Geldanlage;Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Michael Koffer;DE69790800529736000780;DRESDEFF790;-300.00;EUR;finance
+178;;01.06.2016;01.06.2016;Drogerie;Dm Fil.1137 H:65128//Nuernberg/De 2 016-06-01T17:03:43Folgenr.001 Verf Alld.2020 -12;Dm Drogeriemarkt Sagt Danke;7755566780;25190001;-28.85;EUR;standardOfLiving
+179;;01.06.2016;01.06.2016;Bargeld;01.06/16.34Uhr Nuernberg All Eur 70,00 Geb.Eur 0,00 Einzahlung/Auszahlung Ga Nr55508568 Blz76010085 9;Bargeld;9999900780;25190001;-70.00;EUR;private
+180;;31.05.2016;31.05.2016;Geldanlage;Ssknde77Xxx De41760501010012345675 Einmalsparen End-To-End-Ref.: Ccb.91.Ue.162146 Ueberweisung;Christina Jung;DE31251900019736333780;VOHADE2HXXX;-250.00;EUR;finance
+181;;30.05.2016;30.05.2016;Lohn / Gehalt;Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift;Adorsys GmbH & Co. KG;7807800780;25190001;2000.00;EUR;income
+182;;27.05.2016;27.05.2016;Miete;Byladem1Sbt De12773501123456789889 Miete Beuthener Str. 25 End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Georg Tasche;DE31251900019123456780;VOHADE2HXXX;-670.00;EUR;living
+183;;18.05.2016;18.05.2016;Mieteinnahmen;Mietzuschuss End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603080001510000000000000000006 Gutschrift;Isabel Anna;DE31251900019736000780;VOHADE2HXXX;200.00;EUR;finance
+184;;10.05.2016;10.05.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-10T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-25.99;EUR;standardOfLiving
+185;;09.05.2016;09.05.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-09T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-19.99;EUR;standardOfLiving
+186;;04.05.2016;04.05.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-05-04T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-73.21;EUR;standardOfLiving
+187;;03.05.2016;03.05.2016;Geldanlage;Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Michael Koffer;DE69790800529736000780;DRESDEFF790;-300.00;EUR;finance
+188;;28.04.2016;28.04.2016;Lohn / Gehalt;Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift;Adorsys GmbH & Co. KG;7807800780;25190001;2000.00;EUR;income
+189;;27.04.2016;27.04.2016;Miete;Byladem1Sbt De12773501123456789889 Miete Beuthener Str. 25 End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Georg Tasche;DE31251900019123456780;VOHADE2HXXX;-670.00;EUR;living
+190;;19.04.2016;19.04.2016;Drogerie;Dm Fil.1137 H:65128//Nuernberg/De 2 016-04-19T17:03:43Folgenr.001 Verf Alld.2020 -12;Dm Drogeriemarkt Sagt Danke;7755566780;25190001;-28.85;EUR;standardOfLiving
+191;;19.04.2016;19.04.2016;Bargeld;19.04/16.34Uhr Nuernberg All Eur 70,00 Geb.Eur 0,00 Einzahlung/Auszahlung Ga Nr55508568 Blz76010085 9;Bargeld;9999900780;25190001;-100.00;EUR;private
+192;;15.04.2016;15.04.2016;Mieteinnahmen;Mietzuschuss End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603080001510000000000000000006 Gutschrift;Isabel Anna;DE31251900019736000780;VOHADE2HXXX;200.00;EUR;finance
+193;;04.04.2016;04.04.2016;Geldanlage;Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Michael Koffer;DE69790800529736000780;DRESDEFF790;-300.00;EUR;finance
+194;;30.03.2016;30.03.2016;Lohn / Gehalt;Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift;Adorsys GmbH & Co. KG;7807800780;25190001;2000.00;EUR;income
+195;;29.03.2016;29.03.2016;Miete;Byladem1Sbt De12773501123456789889 Miete Beuthener Str. 25 End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Georg Tasche;DE31251900019123456780;VOHADE2HXXX;-670.00;EUR;living
+196;;16.03.2016;16.03.2016;Geldanlage;Spdude68Xxx De41760501010012345675 Einmalsparen End-To-End-Ref.: Ccb.91.Ue.162146 Ueberweisung;Christina Jung;DE31251900019736333780;VOHADE2HXXX;-1000.00;EUR;finance
+197;;15.03.2016;15.03.2016;Lebensmittel / Getraenke;2831 Edeka Neubauer Nuernb.//Nuernb 2016-03-15T17:54:45 Kfn 9 Vj 1612 Lastschrift;Kartenzahlung;9736000780;25190001;-10.00;EUR;standardOfLiving
+198;;15.03.2016;15.03.2016;Mieteinnahmen;Mietzuschuss End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603080001510000000000000000006 Gutschrift;Isabel Anna;DE31251900019736000780;VOHADE2HXXX;200.00;EUR;finance
+199;;02.03.2016;02.03.2016;Geldanlage;Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Michael Koffer;DE69790800529736000780;DRESDEFF790;-300.00;EUR;finance
+200;;26.02.2016;26.02.2016;Lohn / Gehalt;Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift;Adorsys GmbH & Co. KG;7807800780;25190001;2000.00;EUR;income
+201;;25.02.2016;25.02.2016;Miete;Byladem1Sbt De12773501123456789889 Miete Beuthener Str. 25 End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Georg Tasche;DE31251900019123456780;VOHADE2HXXX;-670.00;EUR;living
+202;;16.02.2016;16.02.2016;Drogerie;Dm Fil.1137 H:65128//Nuernberg/De 2 016-02-16T17:03:43Folgenr.001 Verf Alld.2020 -12;Dm Drogeriemarkt Sagt Danke;7755566780;25190001;-28.85;EUR;standardOfLiving
+203;;16.02.2016;16.02.2016;Bargeld;16.02/16.34Uhr Nuernberg All Eur 70,00 Geb.Eur 0,00 Einzahlung/Auszahlung Ga Nr55508568 Blz76010085 9;Bargeld;9999900780;25190001;-50.00;EUR;private
+204;;15.02.2016;15.02.2016;Mieteinnahmen;Mietzuschuss End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603080001510000000000000000006 Gutschrift;Isabel Anna;DE31251900019736000780;VOHADE2HXXX;200.00;EUR;finance
+205;;02.02.2016;02.02.2016;Geldanlage;Ccbade31Xxx De71310108339900123456 Sparen End-To-End-Ref.: Notprovided Dauerauftrag Dauerauftrag;Michael Koffer;DE69790800529736000780;DRESDEFF790;-300.00;EUR;finance
+206;;28.01.2016;28.01.2016;Lohn / Gehalt;Gehalt Adorsys GmbH & Co. KG End-To-End-Ref.: Notprovided Kundenreferenz: Nsct1603300013660000000000000000001 Gutschrift;Adorsys GmbH & Co. KG;7807800780;25190001;2000.00;EUR;income
+207;;28.01.2016;28.01.2016;Geldanlage;Ssknde77Xxx De41760501010012345675 Einmalsparen End-To-End-Ref.: Ccb.91.Ue.162146 Ueberweisung;Christina Jung;DE31251900019736333780;VOHADE2HXXX;-4000.00;EUR;finance
+208;89990210.0;08.01.2016;08.01.2016;Lastschrift (Einzugsermächtigung);Abonnement Kd-Nr. 5104489.;Vag;DE89760501010001011500;SSKNDE77;-51,2;EUR;leisure
