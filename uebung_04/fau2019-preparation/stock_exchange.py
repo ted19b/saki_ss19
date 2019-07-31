@@ -1,5 +1,7 @@
 import copy
 from typing import Dict, List
+import matplotlib
+matplotlib.use('TkAgg')
 from matplotlib import pyplot
 from datetime import date as Date
 
